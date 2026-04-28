@@ -5,8 +5,7 @@ dicionario_aluno = {
     'RM': 23455,
     'Curso': "TDS",
     'Mensalidade': 1620
-
-}
+    }
 print(dicionario_aluno)
 
 print(f'curso do aluno: {dicionario_aluno["Curso"]}')
